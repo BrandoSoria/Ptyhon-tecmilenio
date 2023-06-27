@@ -1,0 +1,1 @@
+palabras ='cdmx guadalajara monterrey puebla tijuana australia'.split()
